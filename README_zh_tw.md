@@ -389,6 +389,11 @@
         <td><a href="https://github.com/jiqi136/DS-AI">多平臺聯網DeepSeek</a></td>
         <td>依託DeepSeek官方&阿裡雲&抖音火山，三通道AI引擎，持續進化智慧。 並且混合使用"聯網蒐索+深度思考"模式。</td>
 	</tr>
+    <tr>
+    <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://www.remio.ai/">remio</a></td>
+    <td>remio 是一個 AI 驅動的個人知識中心，通過自動捕獲瀏覽的網頁內容、解析本地文件並整合個人筆記，構建個性化的知識庫。它支持在個人知識庫中進行搜索和自然語言問答，以提供即時洞察，同時提供智能寫作輔助——適應您的寫作風格，輕鬆簡化起草、潤色和完成內容的過程。remio 採用本地優先儲存設計，優先保護數據隱私，同時集中管理零散信息，以實現最大化的生產力。</td>
+    </tr> 
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
@@ -450,6 +455,11 @@
         <td width=80> <img src="docs/agentUniverse/assets/agentUniverse_logo_s.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
         <td>agentUniverse 是一個專為複雜業務場景設計的多智慧體協作框架。它為大型語言模型智慧體應用提供快速且易於使用的開發能力，專注於智慧體協作調度、自主決策和動態反饋等機制。該框架源自螞蟻集團在金融行業的實際業務實踐。2024 年 6 月，agentUniverse 正式支援 DeepSeek 系列模型。</td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
+            <td> BotSharp 是一個開源的多智慧體應用開發框架，從簡單的聊天機器人，到多智慧體協作，以及複雜的任務如【Text To Sql】框架都提供了開箱即用的使用方法，可以快速地將大模型的能力接入到現有的業務系統中，並且內建知識庫和會話管理功能等，框架使用 DeepSeek V3 的模型進行了詳細的測試，得益於 DeepSeek V3 的性能，框架的表現不輸其他的閉源模型。 </td>
     </tr>
 </table>
 

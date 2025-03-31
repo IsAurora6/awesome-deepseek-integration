@@ -305,6 +305,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 <td><a href="https://github.com/jiqi136/DS-AI">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
 <td> DeepSeek公式、アリクラウド、TikTok火山の3つのプラットフォームを連携させたトリプルチャネルAIエンジンにより、絶えず進化するインテリジェンスを実現。さらに「オンライン検索」と「深度思考」を融合したハイブリッドモードを採用しています.</td>
 	</tr>
+    <tr>
+    <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://www.remio.ai/">remio</a></td>
+    <td>remio は AI を活用したパーソナルナレッジハブです。閲覧したウェブコンテンツを自動的に収集し、ローカルファイルを解析し、個人のメモを統合することで、パーソナライズされたナレッジベースを構築します。パーソナルナレッジベース内での検索と自然言語による Q&A を可能にし、即座に洞察を得られるようにします。さらに、あなたのライティングスタイルに適応し、ドラフト作成や改良、コンテンツ完成を簡単に進めるスマートライティング支援も提供します。ローカル優先のストレージ設計により、remio はデータのプライバシーを重視しながら、断片化した情報を一元化し、最大限の生産性を実現します。</td>
+    </tr> 
 
 </table>
 
@@ -337,6 +342,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td width=80> <img src="docs/agentUniverse/assets/agentUniverse_logo_s.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
         <td> agentUniverseは、複雑なビジネスシーン向けに設計されたマルチエージェント協調フレームワークです。迅速で使いやすい大規模モデルのインテリジェントエージェントアプリケーション構築能力を提供し、特にエージェント間の協調スケジューリング、自律的な意思決定、動的なフィードバックなどのメカニズムに重点を置いています。これは、Ant Groupの金融業界における実践的なビジネス経験に基づいて開発されました。agentUniverseは、2024年6月にDeepSeekシリーズモデルのサポートを全面的に統合しました。  </td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
+        <td> BotSharpは、オープンソースのマルチエージェントアプリケーション開発フレームワークです。シンプルなチャットボットからマルチエージェントの協調、複雑なタスク（例：Text To SQL）まで、すぐに使える方法を提供し、大規模モデルの能力を既存のビジネスシステムに迅速に統合できます。さらに、ナレッジベースや会話管理機能も内蔵しています。このフレームワークはDeepSeek V3モデルで詳細にテストされており、DeepSeek V3の性能のおかげで、他のクローズドソースモデルに劣らないパフォーマンスを発揮します。</td>
     </tr>
 </table>
 
